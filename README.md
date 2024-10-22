@@ -25,3 +25,4 @@ for Delphi 2005/2006/2007/2009/2010/XE/XE2/XE3/XE4/XE5/XE6/XE7/XE8/Seattle/Berli
    ```bash
    git clone https://github.com/your-username/BDE-Database-Manager.git
    ```
+![Скриншот приложения](images/screenshot.webp)
